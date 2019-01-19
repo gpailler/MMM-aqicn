@@ -1,0 +1,7 @@
+{
+    "LevelNotAvailable": "Недоступно",
+    "LevelGood": "Хорошее",
+    "LevelModerate": "Удовлетворительно",
+    "LevelUnhealthy": "Вредно для здоровья",
+    "LevelHazardous": "Опасное"
+  }

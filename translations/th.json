@@ -1,0 +1,7 @@
+{
+    "LevelNotAvailable": "ไม่พร้อมใช้งาน",
+    "LevelGood": "ดี",
+    "LevelModerate": "ปานกลาง",
+    "LevelUnhealthy": "ส่งผลกระทบต่อสุขภาพ",
+    "LevelHazardous": "อันตราย"
+  }

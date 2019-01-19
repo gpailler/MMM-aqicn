@@ -1,0 +1,7 @@
+{
+    "LevelNotAvailable": "暂无数据",
+    "LevelGood": "优",
+    "LevelModerate": "良",
+    "LevelUnhealthy": "中度污染",
+    "LevelHazardous": "严重污染"
+  }

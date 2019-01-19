@@ -1,0 +1,7 @@
+{
+    "LevelNotAvailable": "データがありません",
+    "LevelGood": "良い",
+    "LevelModerate": "平常値",
+    "LevelUnhealthy": "健康に良くない",
+    "LevelHazardous": "危険"
+  }

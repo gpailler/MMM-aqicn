@@ -1,0 +1,7 @@
+{
+    "LevelNotAvailable": "확인할 수 없습니다.",
+    "LevelGood": "좋음",
+    "LevelModerate": "보통",
+    "LevelUnhealthy": "나쁨(해로움)",
+    "LevelHazardous": "극도로 위험함"
+  }

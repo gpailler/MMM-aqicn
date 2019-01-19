@@ -1,0 +1,7 @@
+{
+    "LevelNotAvailable": "Chất lượng không khí",
+    "LevelGood": "Tốt",
+    "LevelModerate": "Trung bình",
+    "LevelUnhealthy": "Có hại cho sức khỏe",
+    "LevelHazardous": "Nguy hiểm"
+  }

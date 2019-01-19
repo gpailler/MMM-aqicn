@@ -1,0 +1,23 @@
+.MMM-aqicn-status-good {
+    color: #009966;
+}
+
+.MMM-aqicn-status-moderate {
+    color: #ffde33;
+}
+
+.MMM-aqicn-status-unhealthy-sensitive {
+    color: #ff9933;
+}
+
+.MMM-aqicn-status-unhealthy {
+    color: #cc0033;
+}
+
+.MMM-aqicn-status-very-unhealthy {
+    color: #660099;
+}
+
+.MMM-aqicn-status-hazardous {
+    color: #7e0023;
+}

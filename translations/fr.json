@@ -1,0 +1,7 @@
+{
+    "LevelNotAvailable": "Indisponible",
+    "LevelGood": "Bonne",
+    "LevelModerate": "Moyenne",
+    "LevelUnhealthy": "Malsaine",
+    "LevelHazardous": "Dangereuse"
+  }

@@ -115,7 +115,26 @@ Module.register("MMM-aqicn", {
 	getTranslations: function() {
 		return {
 				en: "translations/en.json",
-				fr: "translations/fr.json"
+				fr: "translations/fr.json",
+				ar: "translations/ar.json",
+				de: "translations/de.json",
+				es: "translations/es.json",
+				fa: "translations/fa.json",
+				hi: "translations/hi.json",
+				id: "translations/id.json",
+				it: "translations/it.json",
+				ja: "translations/ja.json",
+				kr: "translations/kr.json",
+				ms: "translations/ms.json",
+				pl: "translations/pl.json",
+				pt: "translations/pt.json",
+				ru: "translations/ru.json",
+				sr: "translations/sr.json",
+				th: "translations/th.json",
+				tr: "translations/tr.json",
+				vi: "translations/vi.json",
+				zh-cn: "translations/zh-cn.json",
+				zh-tw: "translations/zh-tw.json"
 		}
 	},
 

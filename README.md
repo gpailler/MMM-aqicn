@@ -28,6 +28,9 @@ var config = {
 }
 ```
 
+You might need to specify the country in the ``stationName`` if your station is not found. In our examply, it would be
+``Bangkok University Rangsit Campus, Pathum Thani, India``
+
 ## Configuration options
 
 | Option             | Description

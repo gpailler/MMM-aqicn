@@ -132,9 +132,7 @@ Module.register("MMM-aqicn", {
 				sr: "translations/sr.json",
 				th: "translations/th.json",
 				tr: "translations/tr.json",
-				vi: "translations/vi.json",
-				zh-cn: "translations/zh-cn.json",
-				zh-tw: "translations/zh-tw.json"
+				vi: "translations/vi.json"
 		}
 	},
 

@@ -29,7 +29,9 @@ var config = {
 ```
 
 You might need to specify the country in the ``stationName`` if your station is not found. In our examply, it would be
-``Bangkok University Rangsit Campus, Pathum Thani, Thailand``
+``Bangkok University Rangsit Campus, Pathum Thani, Thailand``.
+
+You can test your token and your location by visiting http://aqicn.org/json-api/demo/.
 
 ## Configuration options
 

@@ -109,7 +109,7 @@ Module.register("MMM-aqicn", {
 	},
 
 	getStyles: function() {
-		return ["MMM-aqicn.css", "https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"];
+		return ["MMM-aqicn.css", "font-awesome.css"];
 	},
 
 	getTranslations: function() {

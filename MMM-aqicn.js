@@ -183,7 +183,7 @@ Module.register("MMM-aqicn", {
 		}
 
 		if(this.config.showLocationName){
-			wrapper.innerHTML += this.html.city.format(this.data.Location);
+			wrapper.innerHTML += this.html.city.format(this.data.location);
 		}
 
 		return wrapper;
